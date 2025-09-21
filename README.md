@@ -15,6 +15,25 @@
 
 ---
 
+## 🚀 Live Demo & Video
+
+<div align="center">
+	<p>
+		<a href="https://mind-mate-sepia.vercel.app/" target="_blank">
+			<img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-6366F1?style=for-the-badge&labelColor=4F46E5" alt="Live Demo" />
+		</a>
+		&nbsp;&nbsp;
+		<a href="https://youtu.be/pwKp3CORFaM" target="_blank">
+			<img src="https://img.shields.io/badge/📹_Demo_Video-Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
+		</a>
+	</p>
+	<p style="margin-top: 16px; color: #666;">
+		<b>🎥 Watch the demo video</b> to see MindMate in action and <b>🌍 try the live application</b> at mind-mate-sepia.vercel.app
+	</p>
+</div>
+
+---
+
 ## 📸 Features & Screenshots
 
 <div align="center">
